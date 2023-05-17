@@ -1,0 +1,5 @@
+crud operacie na hry
+-databaza hier
+-citat db stranky
+product detail
+-hra z indexu sa vlozy do porudct detail
